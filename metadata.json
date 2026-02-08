@@ -1,0 +1,5 @@
+{
+  "name": "MockUS - US Data Generator",
+  "description": "Generate valid-format US user data (names, addresses, phone numbers) for testing and development purposes. Features instant algorithmic generation and AI-powered custom profiles.",
+  "requestFramePermissions": []
+}
